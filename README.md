@@ -1,4 +1,6 @@
-# Utility to generate private key and JSON keystore for ethereum
+# eth-keygen
+
+Utility to generate private key and JSON keystore for ethereum
 
 ## Install
 
