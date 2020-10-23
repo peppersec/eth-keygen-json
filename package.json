@@ -9,7 +9,7 @@
     "url": "https://github.com/peppersec/eth-keygen-json.git"
   },
   "bin": {
-    "eth-keygen-json": "init"
+    "eth-keygen-json": "init.js"
   },
   "author": "Peppersec.com",
   "license": "MIT",
