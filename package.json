@@ -1,13 +1,18 @@
 {
-  "name": "eth-keygen",
+  "name": "eth-keygen-json",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Cli to generate ethereum json keystore",
+  "main": "init.js",
+  "homepage": "https://github.com/peppersec/eth-keygen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peppersec/eth-keygen.git"
   },
-  "author": "",
-  "license": "ISC",
+  "bin": {
+    "eth-keygen": "init"
+  },
+  "author": "Peppersec.com",
+  "license": "MIT",
   "dependencies": {
     "@ethersproject/wallet": "^5.0.6",
     "inquirer": "^7.3.3"
