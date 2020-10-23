@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Cli to generate ethereum json keystore",
   "main": "init.js",
-  "homepage": "https://github.com/peppersec/eth-keygen",
+  "homepage": "https://github.com/peppersec/eth-keygen-json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peppersec/eth-keygen.git"
+    "url": "https://github.com/peppersec/eth-keygen-json.git"
   },
   "bin": {
     "eth-keygen-json": "init"
